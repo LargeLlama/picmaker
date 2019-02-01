@@ -3,4 +3,4 @@ all:
 	@./picmaker
 
 clean:
-	@rm *.o picmaker *.png *.ppm
+	@rm picmaker *.ppm
